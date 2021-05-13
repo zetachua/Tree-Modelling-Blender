@@ -6,7 +6,7 @@ Premade Twigs, Leaves and Trees for
 
 Steps:
 1. Download all texture files
-2. Download RealisticTree2 Blender File
+2. Download RealisticTree2 Blender File or realisticPalmTree 
 3. To retrieve missing files (pink color textures)
     -> File -> External Data -> Find Missing Files
 
