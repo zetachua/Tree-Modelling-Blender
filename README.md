@@ -1,7 +1,11 @@
 # Tree-Modelling-Blender
 Premade Twigs, Leaves and Trees for 
-1. typical green tree
-2. palm tree
+1. Realisitc green tree model
+2. Palm Tree with background
+
+credits: youtube tutorials
+- Realistic Green Tree Blender
+- Palm Tree Blender https://www.youtube.com/watch?v=yJz7LaynDdA
 
 
 Steps:
@@ -12,3 +16,5 @@ Steps:
 
 To export:
 1. click on files-> export preferably as fbx file
+
+
